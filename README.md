@@ -2,8 +2,7 @@
 
 **Machine Learning Engineer**
 
-I build AI systems focused on **LLMs, speech processing, agentic workflows,
-and local/on-device inference.**
+I build AI systems focused on **LLMs, agentic workflows and local/on-device inference.**
 
 ### Projects
 
