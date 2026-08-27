@@ -13,7 +13,3 @@ Offline AI meeting intelligence desktop application.
 **[Alfred](https://github.com/YojitShinde/Meeting-Scheduler-Agent)**  
 AI-powered meeting scheduler built with LangGraph and Gemini.
 
-### Currently Building
-
-**AidStation** — Self-hosted paramedic assistant for Android using
-on-device SLM inference and RAG.
