@@ -17,7 +17,3 @@ AI-powered meeting scheduler built with LangGraph and Gemini.
 
 **AidStation** — Self-hosted paramedic assistant for Android using
 on-device SLM inference and RAG.
-
-### Stack
-
-`Python` `PyTorch` `Transformers` `LangGraph` `LLMs` `RAG` `Docker`
