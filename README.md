@@ -1,2 +1,23 @@
-<h3>Hello World!</h3>
-<!-- <p>I'm <b>Yojit</b>, To know more about me <a href="https://yojitshindeportfolio.netlify.app/"><b>Click Here</b></a>.</p> -->
+# Yojit Shinde
+
+**Machine Learning Engineer**
+
+I build AI systems focused on **LLMs, speech processing, agentic workflows,
+and local/on-device inference.**
+
+### Projects
+
+**[Grafi](https://github.com/YojitShinde/Grafi)**  
+Offline AI meeting intelligence desktop application.
+
+**[Alfred](https://github.com/YojitShinde/Meeting-Scheduler-Agent)**  
+AI-powered meeting scheduler built with LangGraph and Gemini.
+
+### Currently Building
+
+**AidStation** — Self-hosted paramedic assistant for Android using
+on-device SLM inference and RAG.
+
+### Stack
+
+`Python` `PyTorch` `Transformers` `LangGraph` `LLMs` `RAG` `Docker`
